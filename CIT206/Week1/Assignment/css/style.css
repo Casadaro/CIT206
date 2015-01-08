@@ -1,0 +1,21 @@
+
+body {
+	background-image: url("../img/contemporary_china.png");
+    background-color: #cccccc;
+}
+
+#box3 {
+		color: yellow;
+		background-color: blue;
+		font-size: 32px;
+		text-transform: uppercase;
+		text-align:center; 
+		height: 200px;
+		width: 200px;
+	}
+
+
+table {
+
+	    margin: 200px auto;
+	}
