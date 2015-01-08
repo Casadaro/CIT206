@@ -15,7 +15,17 @@ body {
 	}
 
 
-table {
+#wrap {
+	text-align: center;
+		width:960px;
 
 	    margin: 200px auto;
 	}
+
+#wrap table {
+	 margin: auto;
+}
+
+ #buckskitty {
+	width: 350px;
+}
