@@ -1,0 +1,156 @@
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.boldblue {
+	font-weight: bold;
+	color: #333333;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: #E9CD52;
+	background-color: #FFFFFF;
+	text-transform: none;
+	line-height: normal;
+	word-spacing: normal;
+}
+
+
+
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.95em;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+li {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding: 6px;
+}
+.boxheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	padding: 8px;
+}
+
+#resumelayer {
+	position:absolute;
+	width:173px;
+	height:136px;
+	z-index:1;
+	left: 18px;
+	top: 379px;
+	visibility: hidden;
+}
+
+#contactlayer {
+	position:absolute;
+	width:173px;
+	height:136px;
+	z-index:1;
+	left: 18px;
+	top: 376px;
+	visibility: hidden;
+}
+
+.para1 {
+        text-align: center;
+}
+
+#top   {
+        width: 214px;
+    	height: 109px;
+}
+
+#banner {
+         width: 531px;
+         height: 109px;
+}
+			  
+#home 	 {
+          width: 214px;
+          height: 45px;
+}			   
+
+#tdhome {
+         vertical-align: top;
+         padding: 15px 15px 15px 15px;				
+
+}
+
+.buttonborder{
+           border-style:none;
+
+}
+
+img 	    {
+			display:block;
+}
+
+table       {
+			border-collapse:collapse;
+}
+
+table td    {
+			padding:0;
+}
+
+
+.border {
+          border-collapse:collapse;
+		  padding:0;	
+}				
+
+
+
+#stretch   {
+          width:100%;
+		  background-image:url(images/banner_tile.jpg);
+}
+
+#nav		{
+          width: 214px;
+	      vertical-align: top;
+		  background-image:url(images/left_tile.jpg);
+}
+.popup      {
+        width: 150px;
+		border-collapse:collapse;
+		padding:0;
+		margin: 0px 0px 0px 15px;
+}
+
+.popup1   {
+          text-align: center;
+		  background-image:url(images/top_box.jpg);
+}		
+.popup2	{
+          padding: 5px 5px 5px 5px;
+		  background-image:url(images/round_corner_tile.jpg);
+}
+#add_skills	{
+          width: 150px;
+		  margin: 0px 0px 0px 30px;
+		  text-align: center;
+		  background-image:url(images/round_corner_tile.jpg);
+}
+
+#righttile	{
+           vertical-align: top;
+		   width: 195px;
+		   background-image:url(images/right_tile.jpg);
+}
+
+#topbox    {background-image:url(images/top_box.jpg);
+
+}
+		
