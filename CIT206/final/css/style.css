@@ -2,6 +2,7 @@
 
 #body {
 	width: 100%;
+	height: 361px;
 }
 
 
@@ -29,13 +30,80 @@
 }
 
 
-#bodyBody  {
-	width: 100%;
+#bodyBodyWidth{
+	padding: 0;
+	margin: 0;
 }
 
-#bodyBodyLeft {
+#bodyBodyLeft{
+	background-image: url("../images/left_tile.jpg");
+	vertical-align: top;
 	width: 214px;
+	height: 361px;
 }
+
+#bodyBodyRight {
+	background-image: url("../images/right_tile.jpg");
+	width: 195px;
+	height: 261px;
+	vertical-align: top;
+
+
+}
+
+#bodyBodyRightCenterBox {
+	text-emphasis: none;
+	width: 151px;
+	height: 255px;
+	margin: 53px 0 0 29px;
+}
+
+
+#bodyBodyRightCenterBoxBody {
+	background-image: url("../images/round_corner_tile.jpg");
+	text-align: center;
+	padding: 5px 5px 0px 0px;
+	height: 100px;
+}
+
+#bodyBodyRightCenterBoxHeader {
+	background-image: url("../images/top_box.jpg");
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	padding: 8px 8px 8px 8px;
+	margin: 100px;
+	text-align: center;
+
+}
+
+#bodyBodyRightCenterBoxBody ,p{
+
+	padding: 0px 3px 0px 0px;
+
+}
+
+#bodyLeft, img {
+	margin-bottom: 14px;
+}
+
+#bodyBodyMain {
+
+	vertical-align: top;
+	padding: 15px 0px 0px 15px;
+	margin-top: 0px;
+}
+
+
+
+td {
+	margin: 0;
+	padding: 0;
+}
+
+
+
 /* This is where all of the Table Styling ends */
 
 
@@ -82,6 +150,7 @@ li {
 	font-weight: bold;
 	color: #000000;
 	padding: 8px;
+	margin-bottom: 20px;
 }
 
 #resumelayer {
@@ -119,8 +188,8 @@ li {
 }
 			  
 #home 	 {
-          width: 214px;
-          height: 45px;
+         /*  width: 214px;
+          /*height: 45px; */
 }			   
 
 #tdhome {
@@ -134,9 +203,9 @@ li {
 
 }
 
-img 	    {
+/*img 	    {
 			display:block;
-}
+}*/
 
 table       {
 			border-collapse:collapse;
