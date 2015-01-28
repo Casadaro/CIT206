@@ -7,5 +7,5 @@ This is the URL for the old site (which we are not supposed to tough) http://fre
 
 This is the URL for the final Site  http://freetradesignals.com/cptc/2015/cshearrod/CIT206/final/
 
-This is the URL for the Blue Header strategy site Thttp://freetradesignals.com/cptc/2015/cshearrod//CIT206/Week3/Assignment/index.html
+This is the URL for the Blue Header strategy site http://freetradesignals.com/cptc/2015/cshearrod//CIT206/Week3/Assignment/index.html
 
