@@ -1,0 +1,27 @@
+#header {
+    float:left;
+    width:100%;
+    background: yellow;
+    font-size:93%;
+    line-height:normal;
+}
+
+#header ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+#header li {
+    float:left;
+    
+    background: url("right.gif") no-repeat right top;
+    margin:0;
+    padding:0;
+}
+
+#header a{
+	display: block;
+ 	background:url("img/norm_left.gif") no-repeat left top;
+	padding: 5px 15px;
+}
