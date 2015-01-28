@@ -1,5 +1,8 @@
 /* This is where the table Styling begins  */
 
+#tester {
+	height: 30px
+}
 #body {
 	width: 100%;
 	height: 361px;
@@ -73,16 +76,11 @@
 	font-weight: bold;
 	color: #000000;
 	padding: 8px 8px 8px 8px;
-	margin: 100px;
+	margin: 20px;
 	text-align: center;
-
 }
 
-#bodyBodyRightCenterBoxBody ,p{
 
-	padding: 0px 3px 0px 0px;
-
-}
 
 #bodyLeft, img {
 	margin-bottom: 14px;
@@ -91,8 +89,9 @@
 #bodyBodyMain {
 
 	vertical-align: top;
-	padding: 15px 0px 0px 15px;
+	padding: 15px 15px 0px 15px;
 	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 
@@ -102,7 +101,14 @@ td {
 	padding: 0;
 }
 
+#footer{
+	text-align: center;
+	line-height: 8px;
+	font-size: 15px;
+	margin: 19px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
+}
 
 /* This is where all of the Table Styling ends */
 
